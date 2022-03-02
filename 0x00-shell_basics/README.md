@@ -9,3 +9,8 @@
 9. 8-firstdelete -Deletes file
 10. 9-firstdeletion -Deletes dir
 11. 10-back -Changes dir to previous
+12. 11-lists -Lists all files even hidden /boot dir long format
+13. 12-file_type -Prints the file type
+14. 13-symbolic_link -Create stymboloc link in current dir
+15. 14-copy_html-Copy all html files from working dir to parent dir
+16. 100-lets_move-Move all files beginning with uppercase to dir mentioned
