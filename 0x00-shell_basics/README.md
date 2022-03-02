@@ -4,3 +4,4 @@
 4. 3-listfiles -Long format of listed files
 5. 4-listmorefiles -Show hidden files in long format
 6. 5-listfilesdigitonly -Only show numbers
+7. 6-firstdirectory -Create new dir while in a different location
