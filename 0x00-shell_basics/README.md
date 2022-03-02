@@ -2,3 +2,4 @@
 2. 1-listit- Shows list of every item of my current dir
 3. 2-bring_me_home -Takes me back home
 4. 3-listfiles -Long format of listed files
+5. 4-listmorefiles -Show hidden files in long format
